@@ -1,0 +1,4 @@
+in terminal:
+./footprints_finder.py <file with N1 zones after V-Quest или бота> <output directory> <kind of footprint search - exact or inexact>
+
+результаты будут в файле exact_result.txt, eсли выбран точный поиск, или в inexact_result.txt, если выбран неточный поиск  
