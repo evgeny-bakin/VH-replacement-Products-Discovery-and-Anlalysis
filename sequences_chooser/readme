@@ -1,4 +1,0 @@
-in terminal:
-./create_families <fasta file with sequences> <corresponding partis output>
-
-выбранные последовательности со своими идентификаорами будут находиться в файле chosen_sequences.fasta
