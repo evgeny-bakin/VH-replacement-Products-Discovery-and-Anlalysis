@@ -12,7 +12,7 @@ Open terminal and run:
 ```
 The results will be saved to "exact_result.txt" or "inexact_result.txt" depending on the selected search.
 
-### Running example:
+### Running example
 ```
 ./footprints_finder.py N1_zones.csv /Users/Desktop exact
 ```
