@@ -12,7 +12,7 @@ Open terminal and run:
 ```
 The results will be saved to "chosen_sequences.fasta". 
 
-### Running example:
+### Running example
 
 You can check program's work using test files.
 ```
