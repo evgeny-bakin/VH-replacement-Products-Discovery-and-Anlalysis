@@ -2,7 +2,7 @@
 
 ### Description
 
-This code will help you to form clonal-independent sample of antibody sequences. 
+This code will help you to form clonal-independent sample of antibody sequences. Before running the program, you must run [Partis](https://github.com/psathyrella/partis) tool with "partition" argument. 
 
 ### Running
 
@@ -13,8 +13,10 @@ Open terminal and run:
 The results will be saved to "chosen_sequences.fasta". 
 
 ### Running example:
+
+You can check program's work using test files.
 ```
-./create_families seq.fasta seq-cluster-annotations.csv
+./create_families test.fasta test.csv
 ```
 
 ## Authors
