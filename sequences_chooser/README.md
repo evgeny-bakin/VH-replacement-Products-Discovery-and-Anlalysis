@@ -2,7 +2,7 @@
 
 ### Description
 
-This code will help you to form clonal-independent sample of antibody sequences. Before running the program, you must run [Partis](https://github.com/psathyrella/partis) tool with "partition" argument. 
+This code will help you to form clonal-independent sample of antibody sequences. Before running the program, you must use [Partis](https://github.com/psathyrella/partis) tool on your data with "partition" argument. 
 
 ### Running
 
