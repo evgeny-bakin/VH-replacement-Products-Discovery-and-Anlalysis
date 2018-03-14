@@ -16,10 +16,10 @@ The results will be saved to "chosen_sequences.fasta".
 
 You can check program's work using test files.
 ```
-./create_families test.fasta test.csv
+./create_families '/Users/Desktop/my_folder/test.fasta' '/Users/Desktop/my_folder/test.csv'
 ```
 
 ## Authors
 
 * **Adel Gazizova** - [flowdel](https://github.com/flowdel)
-* **Anastasiya Vinogradova**
+* **Anastasiya Vinogradova** - [newCarroll](https://github.com/newCarroll)
