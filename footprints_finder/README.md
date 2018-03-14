@@ -14,7 +14,7 @@ The results will be saved to "exact_result.txt" or "inexact_result.txt" dependin
 
 ### Running example
 ```
-./footprints_finder.py '//Users/Desktop/my_folder/N1_zones.csv' '/Users/Desktop/my_folder' exact
+./footprints_finder.py '/Users/Desktop/my_folder/N1_zones.csv' '/Users/Desktop/my_folder' exact
 ```
 
 ## Authors
